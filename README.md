@@ -1,9 +1,9 @@
 # kagapa-devanagari-win
 This project is a Windows port of KaGaPa Phonetic layout for Devanagari script, which is originally written for XKB in GNU/Linux.
 ## Introduction
-This repository contains KaGaPa Phonetic layout for Devanagari, which can be used to input Marathi, Hindi and Sanskrit language. This is one of the most missed layouts for devanagari typers who need to deal with both Linux and Windows.
+This repository contains KaGaPa Phonetic layout for Devanagari, which can be used to input Marathi, Hindi and Sanskrit languages. This is one of the most missed layouts by devanagari typers who need to deal with both Linux and Windows.
 
-Along with it, two more layouts are also provided, one of which is a port of my _"Sanskrit Symbols"_ layout in XKB, which can be used to type all vedic symbols currently supported by Unicode. These symbols are best rendered by [Adishila Fonts](https://adishila.com/fonts/). Another one is the port of my _"Modi KaGaPa Phonetic"_ layout used to type a historically important script called Modi. This script was prominantly used to write Marathi language in a seamless cursive fashion, and possess significant importance in the history of Maharashtra.
+Along with it, two more layouts are also provided, one of which is a port of my _"Sanskrit Symbols"_ layout in XKB, which can be used to type all vedic symbols currently supported by Unicode. These symbols are best rendered by [Adishila Fonts](https://adishila.com/fonts/). Another one is the port of my _"Modi KaGaPa Phonetic"_ layout used to type a historically important script called "_Modi_". This script was prominently used to write Marathi language in a seamless cursive fashion, and possess significant importance in the history of Maharashtra.
 
 _Unfortunately, Windows text stack does not seem to have input support for Modi. Therefore, the keyboard layout fails to work. Still, I have provided it. Maybe somebody would be interested to figure out issues with it, or port it in some other way. Maybe it would work after a future update to Windows text stack...!_
 
